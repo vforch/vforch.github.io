@@ -22,8 +22,8 @@ title: Compositionality matters
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   on the ubiquitous quest for understanding how minds create worlds
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+url: "https://vforch.github.io"
 twitter_username: 
 github_username:  vforch
 
