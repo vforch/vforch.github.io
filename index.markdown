@@ -6,33 +6,30 @@ layout: home
 title: Valentin Forch
 ---
 
-# About Me
+Hi, I'm Valentin Forch! I am a PhD student at TU Chemnitz, Germany. I studied psychology and computer science. My current interests fall between compositionality in perception and thought and using evolutionary algorithms to create ultra-low memory controllers for microrobots.
 
-Hi, I'm [Your Name]!  
-Welcome to my academic profile.
 
----
+## Past activities
 
-## Activities
-
-- **Activity 1:** Placeholder description for an activity.
-- **Activity 2:** Placeholder description for another activity.
-- **Activity 3:** Placeholder description for yet another activity.
+- **DFG SPP Symposium:** “The Active Self - Robots and Infants” (Tutzing, 2024)
+- **SFI Working Group (co-organizer):** "Assessing Representation in Minds and Artificial Systems" (Santa Fe, 2024)
+- **SFI Working Group:** "The Active Self" - on theories of the self, artificial intelligence and consciousness (Santa Fe, 2024)
+- **SFI Summer School:** “Intelligence and Representation” (Cambridge, 2023)
+- **DFG SPP Autumn School: "The Active Self" (Herrsching, 2019)**
+- **MPI Workshop on Advanced Methods in Theoretical Neuroscience:** "Structure and disorder: From random connections to functional circuits" (Göttingen, 2019)
 
 ## Publications
 
-1. **Publication Title 1**  
-   *Authors*: Author 1, Author 2  
-   *Journal*: Journal Name, Year  
-   Short description of the publication.
+1. **Building and Understanding the Minimal Self**  
+   Valentin Forch, Fred H. Hamker (2021). *Frontiers in Psychology*
 
 ## Teaching
 
 - **Neurokognition I**  
-  Description or details about the course.
+  Intro Computational Neuroscience - Neurons and Learning.
 
 - **Neurokognition II**  
-  Description or details about another course.
+  Intro Computational Neuroscience - Cognitive Modelling.
 
 ## Volunteering
 
