@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Home
+title: Valentin Forch
 ---
 
 # About Me
@@ -19,16 +19,12 @@ Welcome to my academic profile.
 - **Activity 2:** Placeholder description for another activity.
 - **Activity 3:** Placeholder description for yet another activity.
 
----
-
 ## Publications
 
 1. **Publication Title 1**  
    *Authors*: Author 1, Author 2  
    *Journal*: Journal Name, Year  
    Short description of the publication.
-
----
 
 ## Teaching
 
@@ -37,8 +33,6 @@ Welcome to my academic profile.
 
 - **Neurokognition II**  
   Description or details about another course.
-
----
 
 ## Volunteering
 
