@@ -24,7 +24,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   on the ubiquitous quest for understanding how minds create worlds
 baseurl: ""
 url: "https://vforch.github.io"
-twitter_username: 
 github_username:  vforch
 
 favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
