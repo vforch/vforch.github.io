@@ -11,6 +11,7 @@ Hi, I'm Valentin Forch! I am a PhD student at TU Chemnitz, Germany. I studied ps
 
 ## Past activities
 
+- **GSO 2025** "Eleventh International Conference on Guided Self-Organisation" (Tübingen, 2025)
 - **DFG SPP Symposium:** “The Active Self - Robots and Infants” (Tutzing, 2024)
 - **SFI Working Group (co-organizer):** "Assessing Representation in Minds and Artificial Systems" (Santa Fe, 2024)
 - **SFI Working Group:** "The Active Self" - on theories of the self, artificial intelligence and consciousness (Santa Fe, 2024)
