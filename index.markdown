@@ -32,7 +32,7 @@ Hi, I'm Valentin Forch! I am a PhD student at TU Chemnitz, Germany. I studied ps
 - **Neurokognition II**  
   Intro Computational Neuroscience - Cognitive Modelling.
 
-- **Deep Learning for Practitioners**
+- **Deep Learning for Practitioners**  
   Intro Deep Learning with focus on self-supervised learning.
 
 ## Volunteering
