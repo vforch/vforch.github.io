@@ -38,3 +38,7 @@ Hi, I'm Valentin Forch! I am a PhD student at TU Chemnitz, Germany. I studied ps
 ## Volunteering
 
 - **PhD representative of the SPP "the active self":** 2019-2022
+
+## Grants
+- Microcredential Deep Learning for Practitioners (Across - European University for Cross-Border Knowledge Sharing)
+- Validation Funding: Therabox - Automated Psychotherapy Documentation (EFRE2021-27 European Fonds for Regional Development)
