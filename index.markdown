@@ -24,6 +24,9 @@ Hi, I'm Valentin Forch! I am a PhD student at TU Chemnitz, Germany. I studied ps
 1. **Building and Understanding the Minimal Self**  
    Valentin Forch, Fred H. Hamker (2021). *Frontiers in Psychology*
 
+2. **Behavioural vs. Representational Systematicity in End-to-End Models: An Opinionated Survey**  
+   Ivan Vegner, Sydelle de Souza, Valentin Forch, Martha Lewis, Leonidas A.A. Doumas (2025). *The 63rd Annual Meeting of the Association for Computational Linguistics*
+
 ## Teaching
 
 - **Neurokognition I**  (TA)
