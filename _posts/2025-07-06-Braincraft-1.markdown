@@ -14,7 +14,7 @@ The first Braincraft task (of a series of presumably increasingly complex tasks)
 {% include figure.html
    src="/posts/img/braincraft_1.png"
    alt="Gameplay footage"
-   caption="Fig. 1  The robot "sees" only in a relatively narrow band in front of it."
+   caption="Fig. 1  The robot \"sees\" only in a relatively narrow band in front of it."
 %}
 
 The environment we are presented with appears very similar to rat mazes which have been used by experimental psychologists and later neuroscientists for over a [century](https://en.wikipedia.org/wiki/W._S._Small#Implications_of_maze_learning_and_rats). By using careful experimental design, ever more sophisticated brain imaging techniques, statistical models and simulations, neuroscience as a whole strives for understanding how neurons implement minds, but Rougier laments that "we still lack an integrated, functional mini-brain". By "Mini-brains", in this context, he does not refer to lumps of neurons grown in a [dish](https://doi.org/10.1016/j.neuron.2022.09.001) but neural network models *in silico*. Rougier attests (and I, for one, agree) that most models in computational neuroscience are too specialized and geared towards abstract settings and thus can't be employed in scenarios involving dynamical control and embodiment. Effectively, these models are neither integrated with a body nor a greater environment, but functionally isolated - they are build for solving a narrowly defined task, not for complex settings requiring flexible integration of multiple functions.
