@@ -12,7 +12,7 @@ Nicholas Rougier launched a [braincrafting challenge](https://github.com/rougier
 The first Braincraft task (of a series of presumably increasingly complex tasks) confronts researchers from computational neuroscience with a conspiciously simple problem: A simplified circular robot controlled by a neural network has to navigate a small figure eight-shaped maze where one side contains an energy source. The robot is constantly moving (as long as it's not hitting a wall) and needs to visit the energy source as often as possible to avoid running out of energy. Controls are simple as well: the robot can only steer left or right with a continuous control signal provided by the neural network. The network is made up of up to 1000 continuous rate-coded neurons which can receive input from an array of 64 distance sensors placed in the front of the robot, a binary signal indicating a wall collission, the robot's current energy level and a constant input. 
 
 {% include figure.html
-   src="/_assets/img/braincraft_1.png"
+   src="/assets/img/braincraft_1.png"
    alt="Gameplay footage"
    caption="Fig. 1  The robot \"sees\" only in a relatively narrow band in front of it."
 %}
@@ -22,7 +22,7 @@ The environment we are presented with appears very similar to rat mazes which ha
 Now, how could this simple task pose difficulties for the status quo? While it's called the "Simple decision" - in reference to the choice between left and right - this task incorporates elements of dynamical control problems in the real world. First, the controller does not have perfect information - the robot lacks any immediate sense of orientation, the distance sensors are covering only the central 60° of the robot's front and the collision sensor does not inform about *where* the collision happend. This will lead to situations where the robot is close to a wall on its side where it won't have any sensory information of the wall and when it collides there will be no straight forward way to get unstuck, since it can not know where the wall is located. Thus, one major subchallenge is to give the robot a memory or a spatial representation of its surroundings so it can avoid obstacles that are currently not visible.
 
 {% include figure.html
-   src="/_assets/img/braincraft_2.png"
+   src="/assets/img/braincraft_2.png"
    alt="Gameplay footage of cutting a corner"
    caption="Fig. 2  There's no way to tell from immediate sensory input whether the robot should turn left or right in this situation."
 %}
@@ -32,7 +32,7 @@ Giving neural networks some spatial memory of course is not an excessive demand.
 This is were the comparison with the ARC AGI challenge comes to mind - at its core sits the formal (yet incomplete) [definition of intelligence by Francois Chollet](https://doi.org/10.48550/arXiv.1911.01547) as *the rate of information-to-skill transfer*. Under this definition, a system can be said to be intelligent if it is able to adapt to new tasks after minimal exposure. (More formally, Chollet invokes the idea of a "skill programm" - an artifact created by the intelligent system that interacts with the task). Conversely, task performance in itself is not necessarily a marker of an intelligent system, since it could also be due to extensive training or, more importantly, the intelligence of the creator of the system. With these insights in mind, Chollet build the ARC benchmark to point out the weaknesses of current machine learning approaches. In ARC, each task is a unique combination of simple concepts which need to be inferred from two to three demonstrations (see Fig. 3). While the first iteration of the ARC challenge was "solved" with massive amounts of compute by OpenAI models (they solved the tasks, but did so very inefficiently), the recently released second iteration seems to be extremely hard for current models which average a 2% success rate. Regarding the amount of available training data and adaptability, Rougier plays a similar game with computational neuroscience models.
 
 {% include figure.html
-   src="/_assets/img/braincraft_3.png"
+   src="/assets/img/braincraft_3.png"
    alt="ARC task example from Chollet's paper"
    caption="Fig. 3  An ARC task involving the concepts of similarity and count."
 %}
