@@ -47,4 +47,4 @@ I am curious which approaches will be fielded and which ones will succeed in thi
 
 <a id="footnote-1">1</a> Moreover, an elaborate training algorithm will also strain the available compute budget, reducing the total amount of training data that can be used.
 
-<a id="footnote-2">2</a> Still, once the ML community set eyes on the ARC challenge, progress was fast, and I think more sooner than later we will find ourselves in a situation where we will be hardpressed to find a purely "cognitive" benchmark machines cannot solve. [Our niche is shrinking.](https://youtube.com/watch?v=dNrTrx42DGQ&t=4637)
+<a id="footnote-2">2</a> Still, once the ML community set eyes on the ARC 1 challenge, progress was fast, and I think rather sooner than later we will find ourselves in a situation where we will be hardpressed to find a purely "cognitive" benchmark machines cannot solve. [Our niche is shrinking.](https://youtube.com/watch?v=dNrTrx42DGQ&t=4637)
