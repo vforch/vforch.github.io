@@ -1,0 +1,16 @@
+---
+---
+// Import core theme CSS
+@import "main";
+
+// Custom overrides:
+figure.my-figure img {
+  width: 50%;        // scale images to 50%
+  display: block;
+  margin: 0 auto;    // center images
+}
+
+article {
+  max-width: 800px;  // extend article text width (adjust as needed)
+  margin: 0 auto;
+}
