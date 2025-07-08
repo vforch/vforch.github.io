@@ -12,7 +12,7 @@ Nicholas Rougier launched a [braincrafting challenge](https://github.com/rougier
 The first Braincraft task (of a series of presumably increasingly complex tasks) confronts researchers from computational neuroscience with a conspiciously simple problem: A simplified circular robot controlled by a neural network has to navigate a small figure eight-shaped maze where one side contains an energy source. The robot is constantly moving (as long as it's not hitting a wall) and needs to visit the energy source as often as possible to avoid running out of energy. Controls are simple as well: the robot can only steer left or right with a continuous control signal provided by the neural network. The network is made up of up to 1000 continuous rate-coded neurons which can receive input from an array of 64 distance sensors placed in the front of the robot, a binary signal indicating a wall collission, the robot's current energy level and a constant input. 
 
 {% include figure.html
-   src="/assets/img/braincraft_1.png"
+   src="/assets/img/braincraft_1_small.png"
    alt="Gameplay footage"
    caption="Fig. 1  The robot \"sees\" only in a relatively narrow band in front of it."
    class="my-figure"
@@ -23,7 +23,7 @@ The environment we are presented with appears very similar to rat mazes which ha
 Now, how could this simple task pose difficulties for the status quo? While it's called the "Simple decision" - in reference to the choice between left and right - this task incorporates elements of dynamical control problems in the real world. First, the controller does not have perfect information - the robot lacks any immediate sense of orientation, the distance sensors are covering only the central 60° of the robot's front and the collision sensor does not inform about *where* the collision happend. This will lead to situations where the robot is close to a wall on its side where it won't have any sensory information of the wall and when it collides there will be no straight forward way to get unstuck, since it can not know where the wall is located. Thus, one major subchallenge is to give the robot a memory or a spatial representation of its surroundings so it can avoid obstacles that are currently not visible.
 
 {% include figure.html
-   src="/assets/img/braincraft_2.png"
+   src="/assets/img/braincraft_2_small.png"
    alt="Gameplay footage of cutting a corner"
    caption="Fig. 2  There's no way to tell from immediate sensory input whether the robot should turn left or right in this situation."
    class="my-figure"
