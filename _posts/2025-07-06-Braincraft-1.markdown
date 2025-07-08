@@ -43,6 +43,7 @@ Regarding the amount of available training data and adaptability, Rougier now pl
 
 I am curious which approaches will be fielded and which ones will succeed in this challenge. Computational neuroscientists, researchers from neuromorphic computing, and advocats for neuro-inspired AI often cite the brain's energy and learning efficiency as an argument against mainstream machine learning and for more brain research. If it turns out that models from the computational neuroscience camp fail in this challenge favouring learning efficiency this will be a [bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html).
 
+---
 
 <a id="footnote-1">1</a> Moreover, an elaborate training algorithm will also strain the available compute budget, reducing the total amount of training data that can be used.
 
