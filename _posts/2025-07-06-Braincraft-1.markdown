@@ -37,7 +37,6 @@ This is were the comparison with the ARC AGI challenge comes to mind - at its co
    src="/assets/img/braincraft_3.png"
    alt="ARC task example from Chollet's paper"
    caption="Fig. 3  An ARC task involving the concepts of similarity and count."
-   class="my-figure"
 %}
 
 What can be gained from solving the Braincraft challenge? Is it even possible to find a meaningful solution to the "Simple" task given so little compute? Compared to ARC, Rougier's task runs the risk of encouraging "meta-overfitting" to the task at hand since there is only one task and not a diverse set (yet) - one route to success for contestants at this stage would be to find a brute force solution in an extended training regime and compress it by any means so it can be "unpacked" during training using training data as the decryption key (aprocess we could then call learning). When cast this generally, this appears to be the only solution available - since there is so little data available during training, the model cannot learn a "world model" from scratch - it will have to rely on strong inductive biases derived from human intuitions or prior training.

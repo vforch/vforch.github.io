@@ -11,6 +11,6 @@ figure.my-figure img {
 }
 
 article {
-  max-width: 800px;  // extend article text width (adjust as needed)
+  max-width: 800px !important;
   margin: 0 auto;
 }
