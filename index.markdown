@@ -11,12 +11,13 @@ Hi, I'm Valentin Forch! I am a PhD student at TU Chemnitz, Germany. I studied ps
 
 ## Past activities
 
+- **Unpacking Generativity** "Symposium on Epistemology, Politics, and Aesthetics of Generative AI Systems" (Dresden, 2025)
 - **GSO 2025:** "Eleventh International Conference on Guided Self-Organisation" (Tübingen, 2025)
 - **DFG SPP Symposium:** “The Active Self - Robots and Infants” (Tutzing, 2024)
 - **SFI Working Group (co-organizer):** "Assessing Representation in Minds and Artificial Systems" (Santa Fe, 2024)
 - **SFI Working Group:** "The Active Self" - on theories of the self, artificial intelligence and consciousness (Santa Fe, 2024)
 - **SFI Summer School:** “Intelligence and Representation” (Cambridge, 2023)
-- **DFG SPP Autumn School: "The Active Self" (Herrsching, 2019)**
+- **DFG SPP Autumn School**: "The Active Self" (Herrsching, 2019)
 - **MPI Workshop on Advanced Methods in Theoretical Neuroscience:** "Structure and disorder: From random connections to functional circuits" (Göttingen, 2019)
 
 ## Publications
