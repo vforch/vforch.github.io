@@ -7,6 +7,8 @@ tags: [braincraft, neuroscience]
 
 Nicholas Rougier launched a [braincrafting challenge](https://github.com/rougier/braincraft) which I find shares some similarities with Francois Chollet's [ARC AGI challenge](https://arcprize.org/).
 
+---
+
 The first Braincraft task (of a series of presumably increasingly complex tasks) presents researchers from computational neuroscience with a conspicuously simple problem: a simplified circular robot controlled by a neural network has to navigate a small figure eight-shaped maze where one side contains an energy source. The robot is constantly moving (as long as it's not hitting a wall) and needs to visit the energy source as often as possible to avoid running out of energy. Controls are simple as well: the robot can only steer left or right with a continuous control signal provided by the neural network. The network is made up of up to 1000 continuous rate-coded neurons which can receive input from an array of 64 distance sensors placed in the front of the robot, a binary signal indicating a wall collision, the robot's current energy level, and a constant input. 
 
 {% include figure.html
