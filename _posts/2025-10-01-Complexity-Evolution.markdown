@@ -7,6 +7,8 @@ tags: [complexity, evolution, LLMs]
 
 The use of LLMs for innovation may boost productivity in some domains, but can they generate the breakthrough insights needed to revolutionize machine learning itself? Or is there a limit on the complexity of the ideas LLMs can work with due to being constrained by the human knowledge they were trained on?
 
+---
+
 Since 2022, LLMs have shown some impressive or at least unexpected capabilities. Their "thinking" or "reasoning" modes, which can be understood as a self-guided shallow search over possible responses, further boosted their capabilities. Recently, LLMs have been used as heuristics for generating and evaluating candidate solutions in large search spaces embedded in the language domain. This approach has already produced some significant feats with potential real-world impact:
 
 - Using a mix of proprietary LLMs for literature search and information extraction, researchers created an [automated workflow for systematic medical reviews](https://www.medrxiv.org/content/10.1101/2025.06.13.25329541v2). These reviews are very labour-intensive, taking months to complete. The automated workflow, called otto-SR, reduces the time it takes to write such a review to hours (given some detailed, pre-specified inclusion criteria for papers), cutting delays in knowledge accumulation and allowing for frequent updates. Further, across the twelve reviews the authors reproduced, their automatic approach identified more relevant studies and was more reliable at data extraction than human reviewers.
