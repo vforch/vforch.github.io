@@ -44,13 +44,13 @@ In summary, while research in automated search over the vast spaces of all possi
 
 <a id="footnote-1">1</a> Another agent named [Carl](https://www.autoscience.ai/blog/meet-carl-the-first-ai-system-to-produce-academically-peer-reviewed-research) published, too, but with a little help of his human friends.
 
-<a id="footnote-2">2</a> or will be occuring [soon](https://www.theguardian.com/technology/2025/jul/26/competition-shows-humans-are-still-better-than-ai-at-coding-just)
+<a id="footnote-2">2</a> ...or will be occuring [soon](https://www.theguardian.com/technology/2025/jul/26/competition-shows-humans-are-still-better-than-ai-at-coding-just).
 
-<a id="footnote-3">3</a> for example [Rossum's Universal Robots](https://en.wikipedia.org/wiki/R.U.R.)
+<a id="footnote-3">3</a> For example [Rossum's Universal Robots](https://en.wikipedia.org/wiki/R.U.R.).
 
-<a id="footnote-4">4</a> not to mention the potentially detrimental impact of LLM usage on [productivity](https://arxiv.org/abs/2507.09089) and [human cognition](https://arxiv.org/abs/2506.08872)
+<a id="footnote-4">4</a> Not to mention the potentially detrimental impact of LLM usage on [productivity](https://arxiv.org/abs/2507.09089) and [human cognition](https://arxiv.org/abs/2506.08872).
 
-<a id="footnote-5">5</a> just like [Evolution](https://arxiv.org/abs/2205.10320)
+<a id="footnote-5">5</a> Just like [Evolution](https://arxiv.org/abs/2205.10320).
 
 <a id="footnote-6">6</a> Linear attention does scale linearly with input sequence length unlike the square scaling of the classical self attention of the transformer. An excellent explanantion can be found [here](https://proceedings.neurips.cc/paper_files/paper/2024/file/e618724ac897c6cf3fbfb273f8695d67-Paper-Conference.pdf).
 
