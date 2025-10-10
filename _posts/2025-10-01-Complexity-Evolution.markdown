@@ -40,6 +40,7 @@ This is where the analogy to Move 37 becomes instructive. AlphaGo’s move was n
 
 In summary, while research in automated search over the vast spaces of all possible languages is very interesting in itself<sup>[7](#footnote-7)</sup> and will produce some useful tools, I believe that there are fundamental problems with the idea of self-improving LLMs given the current state of technology. Their dependence on human priors, lack of a robust real-world interface, as well as their inability for continual learning seem too severe to make them a good candidate for a system capable of exponential self-improvement.
 
+*Addendum* Coming back to societal risks: If we start to overly rely on AI to do our research, we will supress the human forces of innovation and may even gradually [lose the cognitive abilities](https://www.youtube.com/watch?v=SSBLQyi16CY&t=2738s) enabling groundbreaking innovations, making breakthroughs even less likely<sup>[8](#footnote-8)</sup>.
 
 ---
 
@@ -56,3 +57,5 @@ In summary, while research in automated search over the vast spaces of all possi
 <a id="footnote-6">6</a> Linear attention does scale linearly with input sequence length unlike the square scaling of the classical self attention of the transformer. An excellent explanantion can be found [here](https://proceedings.neurips.cc/paper_files/paper/2024/file/e618724ac897c6cf3fbfb273f8695d67-Paper-Conference.pdf).
 
 <a id="footnote-7">7</a> Who doesn't want to explore [the space of all possible simulations](https://sakana.ai/asal/)?
+
+<a id="footnote-8">8</a> Thanks to my colleague Payam Atoofi for this thought!
