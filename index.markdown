@@ -11,6 +11,7 @@ Hi, I'm Valentin Forch! I am a PhD student at TU Chemnitz, Germany. I studied ps
 
 ## Past activities
 
+- **4th GemTex LLM workshop** "Medical Applications of LLMs" (Munich, 2025)
 - **Unpacking Generativity** "Symposium on Epistemology, Politics, and Aesthetics of Generative AI Systems" (Dresden, 2025)
 - **GSO 2025:** "Eleventh International Conference on Guided Self-Organisation" (Tübingen, 2025)
 - **DFG SPP Symposium:** “The Active Self - Robots and Infants” (Tutzing, 2024)
