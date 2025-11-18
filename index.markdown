@@ -8,6 +8,9 @@ title: Valentin Forch
 
 Hi, I'm Valentin Forch! I am a PhD student at TU Chemnitz, Germany. I studied psychology and computer science. My current interests fall between compositionality in perception and thought, and using evolutionary algorithms to create ultra-low memory controllers for microrobots. Check out my [blog](/blog/)
 
+## Upcoming
+
+- **ALICE workshop** "Artificial Life, Intelligence, Complexity & Evolution" (Copenhagen, 2026)
 
 ## Past activities
 
