@@ -46,7 +46,7 @@ In summary, while research in automated search over the vast spaces of all possi
 
 <a id="footnote-1">1</a> Another agent named [Carl](https://www.autoscience.ai/blog/meet-carl-the-first-ai-system-to-produce-academically-peer-reviewed-research) published, too, but with a little help of his human friends.
 
-<a id="footnote-2">2</a> Update - 06-12-2025 - Apparently, there is a wave of LLM-enhanced "scientists" [causing more trouble than merit](https://www.theguardian.com/technology/2025/dec/06/ai-research-papers) right now, that currently outruns everyone else - it's very interesting how this dynamic will play out - AI-scientists could solve this problem or suffer from the same structural imbalances depending on how they are implemented (centralization vs decentralization and feasability of automatic verification).
+<a id="footnote-2">2</a> Update - 06-12-2025 - Apparently, there is a wave of LLM-enhanced "scientists" [causing more harm than good](https://www.theguardian.com/technology/2025/dec/06/ai-research-papers) by publishing truck loads of unverified vibe code right now, that currently outruns everyone else in the publishing game - it's very interesting how this dynamic will play out - AI-scientists could solve this problem or reproduce the same structural imbalances depending on how they are implemented (e.g., centralization vs decentralization).
 
 <a id="footnote-3">3</a> ...or will be occuring [soon](https://www.theguardian.com/technology/2025/jul/26/competition-shows-humans-are-still-better-than-ai-at-coding-just).
 
