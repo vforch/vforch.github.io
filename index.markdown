@@ -11,6 +11,7 @@ Hi, I'm Valentin Forch! I am a PhD student at TU Chemnitz, Germany. I studied ps
 ## Upcoming
 
 - **ALICE workshop** "Artificial Life, Intelligence, Complexity & Evolution" (Copenhagen, 2026)
+- **RCC2026** "International Reservoir Computing Conference 2026" (Berlin, 2026)
 
 ## Past activities
 
@@ -40,11 +41,14 @@ Hi, I'm Valentin Forch! I am a PhD student at TU Chemnitz, Germany. I studied ps
 - **Neurokognition II** (TA)
   Intro Computational Neuroscience - Cognitive Modelling.
 
-- **Neurorobotics** (Lecturer)
+- **Neurorobotics** (Co-Lecturer)
   Topics: Reservoir Computing and Evolutionary Algorithms
 
-- **Deep Learning for Practitioners** (TA)
+- **Deep Learning for Practitioners** - Microcredential (TA)
   Intro Deep Learning with focus on self-supervised learning.
+
+- **Neuromorphic Computing** - Microcredential (Co-Lecturer)
+  Intro to Neuromorphic Computing Paradigms and Applications.
 
 ## Volunteering
 
