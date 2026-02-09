@@ -10,11 +10,11 @@ Hi, I'm Valentin Forch! I am a PhD student at TU Chemnitz, Germany. I studied ps
 
 ## Upcoming
 
-- **ALICE Workshop:** "Artificial Life, Intelligence, Complexity & Evolution" (Copenhagen, 2026)
 - **RCC2026:** "International Reservoir Computing Conference 2026" (Berlin, 2026)
 
 ## Past activities
 
+- **ALICE Workshop:** "Artificial Life, Intelligence, Complexity & Evolution" (Copenhagen, 2026)
 - **4th GemTex LLM Workshop:** "Medical Applications of LLMs" (Munich, 2025)
 - **Unpacking Generativity Symposium:** "On Epistemology, Politics, and Aesthetics of Generative AI Systems" (Dresden, 2025)
 - **GSO 2025:** "Eleventh International Conference on Guided Self-Organisation" (Tübingen, 2025)
