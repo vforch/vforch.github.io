@@ -14,6 +14,7 @@ Hi, I'm Valentin Forch! I am a PhD student at TU Chemnitz, Germany. I studied ps
 
 ## Past activities
 
+- **2nd KImed Meeting:** "AI in Medicine" (Dresden, 2026)
 - **ALICE Workshop:** "Artificial Life, Intelligence, Complexity & Evolution" (Copenhagen, 2026)
 - **4th GemTex LLM Workshop:** "Medical Applications of LLMs" (Munich, 2025)
 - **Unpacking Generativity Symposium:** "On Epistemology, Politics, and Aesthetics of Generative AI Systems" (Dresden, 2025)
